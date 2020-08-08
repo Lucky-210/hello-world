@@ -1,2 +1,6 @@
 # hello-world
-This is my first time using github!
+
+Hello Github
+
+This is my first time doing anything like this.
+I'm going to college to write code and I enjoy it.
